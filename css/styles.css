@@ -153,10 +153,6 @@ body {
 
 .site-footer {
     background-color: #2E2F42;
-    border: 2px solid red;
-    /* временно */
-    height: 100px;
-    /* временно */
 }
 
 .accent-footer {
