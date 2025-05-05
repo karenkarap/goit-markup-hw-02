@@ -18,7 +18,7 @@ body {
 
 .logo .accent {
    
-    color: #2E2F42;
+    color: currentColor;;
 }
 
 .nav-list,
@@ -56,7 +56,6 @@ body {
     letter-spacing: 4%;
     line-height: 1.5;
     cursor: pointer;
-   
 }
 
 .hero-title-button:hover,
@@ -154,6 +153,10 @@ body {
 
 .site-footer {
     background-color: #2E2F42;
+    border: 2px solid red;
+    /* временно */
+    height: 100px;
+    /* временно */
 }
 
 .accent-footer {
